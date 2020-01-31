@@ -1,0 +1,19 @@
+10.10072Fs1079101392334_2073ab16f89eb3e8de5af407afa99f61.pdf : https://doi.org/10.1007/s10791-013-9233-4 : Al-Shboul and Myaeng 2014 : Wikipedia-based query phrase expansion in patent class search
+
+jabeur2012.pdf : https://doi.org/10.1145/2245276.2245459 : Jabeur, L. B., Tamine, L., & Boughanem, M. 2012 : Uprising microblogs: A Bayesian network retrieval model for tweet search
+
+almasri2016.pdf : https://doi.org/10.1007/978-3-319-30671-1_57 : Almasri, M., Berrut, C., & Chevallet, J. 2016 : A Comparison of Deep Learning Based Query Expansion with Pseudo-Relevance Feedback and Mutual Information
+
+meziane article IJIT 12(3).pdf : https://doi.org/10.4018/IJIIT.2016070104 : Belalem, G., Abbache, A., Belkredim, F. Z., & Meziane, F 2016 : Arabic Query Expansion Using WordNet  and Association Rules 
+
+INEX tweet.pdf : https://doi.org/10.1016/j.ipm.2016.03.002 : Bellot, P., Moriceau, V., Mothe, J., SanJuan, E., & Tannier, X. 2016 : INEX Tweet Contextualization task: Evaluation, results and lesson learned
+ 
+bouchoucha2014.pdf : 10.1007/978-3-319-06028-6_38 : Bouchoucha, A., Liu, X., & Nie, J.-Y 2014 : Integrating Multiple Resources for Diversiﬁed Query Expansion
+
+Selecting Good Expansion Terms .pdf : https://doi.org/10.1145/1390334.1390377 : Cao, G., Nie, J., Gao, J., & Robertson, S. 2008 : Selecting Good Expansion Terms  for Pseudo-Relevance Feedback 
+
+colace2015.pdf : https://doi.org/10.1002/asi.23331 : Colace, F., Santo, M. D., Greco, L., & Napoletano, P 2015 : Improving Relevance Feedback-Based Query Expansion by the Use of a Weighted Word Pairs Approach
+
+10.1109_icist.2013.6747664.pdf : 10.1109/ICIST.2013.6747664 : Liu, C., Qi, R., & Liu, Q 2013 : Query Expansion Terms Based on Positive and Negative Association Rules
+
+luo2012.pdf : 10.1145/2382336.2382371 : Luo, J., Meng, B., Liu, M., Tu, X., & Zhang, K 2012 : Query Expansion using Explicit Semantic Analysis 
